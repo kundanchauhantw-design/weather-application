@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "src/app/api/**/*.ts": {
-      "runtime": "nodejs20.x"
-    }
-  },
   "env": {
     "WEATHER_API_KEY": "e75ae4dc9220448ea0c65939251209"
   },
