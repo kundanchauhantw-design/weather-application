@@ -1,10 +1,10 @@
 {
   "functions": {
     "src/app/api/**/*.ts": {
-      "runtime": "nodejs18.x"
+      "runtime": "nodejs20.x"
     }
   },
   "env": {
-    "OPENWEATHER_API_KEY": "e75ae4dc9220448ea0c65939251209"
+    "WEATHER_API_KEY": "e75ae4dc9220448ea0c65939251209"
   }
 }
